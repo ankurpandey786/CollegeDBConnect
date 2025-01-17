@@ -1,0 +1,1003 @@
+[
+    {
+        "author": {
+            "scholar_id": "jpEQplwAAAAJ",
+            "name": "Charanraj B R",
+            "affiliation": "PES University",
+            "email_domain": "@pes.edu",
+            "citedby": 14,
+            "citedby5y": 14,
+            "hindex": 3,
+            "hindex5y": 3,
+            "i10index": 0,
+            "i10index5y": 0,
+            "cites_per_year": {
+                "2022": 3,
+                "2023": 6,
+                "2024": 5
+            },
+            "publications": [
+                {
+                    "bib": {
+                        "title": "Detection of DoS attacks on Wi-Fi networks using IoT sensors",
+                        "pub_year": 2022,
+                        "author": "Irene Joseph and Prasad B Honnavalli and BR Charanraj",
+                        "publisher": "Springer Singapore"
+                    },
+                    "num_citations": 6,
+                    "pub_url": "https://link.springer.com/chapter/10.1007/978-981-16-9012-9_44"
+                },
+                {
+                    "bib": {
+                        "title": "Smart Waste Segregation",
+                        "pub_year": 2021,
+                        "author": "G Sanathkumar and KJ Nagesh and Guruprasad Hadimani and BR Charanraj and Prasad B Honnavalli",
+                        "conference": "2021 IEEE 9th Region 10 Humanitarian Technology Conference (R10-HTC)",
+                        "publisher": "IEEE"
+                    },
+                    "num_citations": 5,
+                    "pub_url": "https://ieeexplore.ieee.org/abstract/document/9641526/"
+                },
+                {
+                    "bib": {
+                        "title": "A system to retrofit existing infrastructure to be smart and IoT ready",
+                        "pub_year": 2020,
+                        "author": "Dhanush Ravi and Prasad B Honnavalli and Chirag N Vijay"
+                    },
+                    "num_citations": 3,
+                    "pub_url": "https://dl.acm.org/doi/abs/10.1145/3448823.3448864"
+                },
+                {
+                    "bib": {
+                        "title": "Railway Inspection System Using IoT",
+                        "pub_year": 2023,
+                        "author": "Vishruth Kumar and LS Yashas and Viresh Kadole and CR Raghavendra and BR Charanraj"
+                    },
+                    "num_citations": 0,
+                    "pub_url": "https://www.researchgate.net/profile/Vishruth-Kumar/publication/369792673_Railway_Inspection_System_Using_IoT/links/642ce77720f25554da0e2f19/Railway-Inspection-System-Using-IoT.pdf"
+                },
+                {
+                    "bib": {
+                        "title": "Autonomous Sailing Boat",
+                        "pub_year": 2021,
+                        "author": "R Divya and N Inchara and Zainab A Muskaan and Prasad B Honnavalli and BR Charanraj",
+                        "conference": "Information and Communication Technology for Competitive Strategies (ICTCS 2020) Intelligent Strategies for ICT",
+                        "publisher": "Springer Singapore"
+                    },
+                    "num_citations": 0,
+                    "pub_url": "https://link.springer.com/chapter/10.1007/978-981-16-0882-7_11"
+                }
+            ]
+        }
+    },
+    {},
+    {
+        "author": {
+            "scholar_id": "jpEQplwAAAAJ",
+            "name": "Charanraj B R",
+            "affiliation": "PES University",
+            "email_domain": "@pes.edu",
+            "citedby": 14,
+            "citedby5y": 14,
+            "hindex": 3,
+            "hindex5y": 3,
+            "i10index": 0,
+            "i10index5y": 0,
+            "cites_per_year": {
+                "2022": 3,
+                "2023": 6,
+                "2024": 5
+            },
+            "publications": [
+                {
+                    "bib": {
+                        "title": "Detection of DoS attacks on Wi-Fi networks using IoT sensors",
+                        "pub_year": 2022,
+                        "author": "Irene Joseph and Prasad B Honnavalli and BR Charanraj",
+                        "publisher": "Springer Singapore"
+                    },
+                    "num_citations": 6,
+                    "pub_url": "https://link.springer.com/chapter/10.1007/978-981-16-9012-9_44"
+                },
+                {
+                    "bib": {
+                        "title": "Smart Waste Segregation",
+                        "pub_year": 2021,
+                        "author": "G Sanathkumar and KJ Nagesh and Guruprasad Hadimani and BR Charanraj and Prasad B Honnavalli",
+                        "conference": "2021 IEEE 9th Region 10 Humanitarian Technology Conference (R10-HTC)",
+                        "publisher": "IEEE"
+                    },
+                    "num_citations": 5,
+                    "pub_url": "https://ieeexplore.ieee.org/abstract/document/9641526/"
+                },
+                {
+                    "bib": {
+                        "title": "A system to retrofit existing infrastructure to be smart and IoT ready",
+                        "pub_year": 2020,
+                        "author": "Dhanush Ravi and Prasad B Honnavalli and Chirag N Vijay"
+                    },
+                    "num_citations": 3,
+                    "pub_url": "https://dl.acm.org/doi/abs/10.1145/3448823.3448864"
+                },
+                {
+                    "bib": {
+                        "title": "Railway Inspection System Using IoT",
+                        "pub_year": 2023,
+                        "author": "Vishruth Kumar and LS Yashas and Viresh Kadole and CR Raghavendra and BR Charanraj"
+                    },
+                    "num_citations": 0,
+                    "pub_url": "https://www.researchgate.net/profile/Vishruth-Kumar/publication/369792673_Railway_Inspection_System_Using_IoT/links/642ce77720f25554da0e2f19/Railway-Inspection-System-Using-IoT.pdf"
+                },
+                {
+                    "bib": {
+                        "title": "Autonomous Sailing Boat",
+                        "pub_year": 2021,
+                        "author": "R Divya and N Inchara and Zainab A Muskaan and Prasad B Honnavalli and BR Charanraj",
+                        "conference": "Information and Communication Technology for Competitive Strategies (ICTCS 2020) Intelligent Strategies for ICT",
+                        "publisher": "Springer Singapore"
+                    },
+                    "num_citations": 0,
+                    "pub_url": "https://link.springer.com/chapter/10.1007/978-981-16-0882-7_11"
+                }
+            ]
+        }
+    },
+    {},
+    {
+        "author": {
+            "scholar_id": "G1EFxsMAAAAJ",
+            "name": "Adithya Balasubramanian",
+            "affiliation": "Urology Resident Physician, Weill Cornell Medical College/New York Presbyterian Hospital",
+            "email_domain": "@med.cornell.edu",
+            "citedby": 384,
+            "citedby5y": 378,
+            "hindex": 12,
+            "hindex5y": 12,
+            "i10index": 14,
+            "i10index5y": 14,
+            "cites_per_year": {
+                "2018": 3,
+                "2019": 16,
+                "2020": 42,
+                "2021": 85,
+                "2022": 69,
+                "2023": 76,
+                "2024": 49
+            },
+            "publications": [
+                {
+                    "bib": {
+                        "title": "Testosterone imposters: an analysis of popular online testosterone boosting supplements",
+                        "pub_year": 2019,
+                        "author": "Adithya Balasubramanian and Nannan Thirumavalavan and Ashwin Srivatsav and Justin Yu and Larry I Lipshultz and Alexander W Pastuszak",
+                        "journal": "The journal of sexual medicine",
+                        "publisher": "Oxford University Press"
+                    },
+                    "num_citations": 50,
+                    "pub_url": "https://academic.oup.com/jsm/article-abstract/16/2/203/6980564"
+                },
+                {
+                    "bib": {
+                        "title": "The impact of microsurgical repair of subclinical and clinical varicoceles on total motile sperm count: is there a difference?",
+                        "pub_year": 2018,
+                        "author": "Nannan Thirumavalavan and Jason M Scovell and Adithya Balasubramanian and Taylor P Kohn and Byung Ji and Asad Hasan and Alexander W Pastuszak and Larry I Lipshultz",
+                        "journal": "Urology",
+                        "publisher": "Elsevier"
+                    },
+                    "num_citations": 33,
+                    "pub_url": "https://www.sciencedirect.com/science/article/pii/S0090429518306277"
+                },
+                {
+                    "bib": {
+                        "title": "Efficacy and safety of common ingredients in aphrodisiacs used for erectile dysfunction: a review",
+                        "pub_year": 2020,
+                        "author": "Ashwin Srivatsav and Adithya Balasubramanian and Ujval Ishu Pathak and Jorge Rivera-Mirabal and Nannan Thirumavalavan and James M Hotaling and Larry I Lipshultz and Alexander W Pastuszak",
+                        "publisher": "Oxford University Press"
+                    },
+                    "num_citations": 32,
+                    "pub_url": "https://academic.oup.com/smr/article-abstract/8/3/431/6880228"
+                },
+                {
+                    "bib": {
+                        "title": "Beyond the androgen receptor: the role of growth hormone secretagogues in the modern management of body composition in hypogonadal males",
+                        "pub_year": 2020,
+                        "author": "Deepankar K Sinha and Adithya Balasubramanian and Alexander J Tatem and Jorge Rivera-Mirabal and Justin Yu and Jason Kovac and Alexander W Pastuszak and Larry I Lipshultz",
+                        "publisher": "AME Publications"
+                    },
+                    "num_citations": 31,
+                    "pub_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7108996/"
+                },
+                {
+                    "bib": {
+                        "title": "A systematic evaluation of youtube as an information source for male infertility",
+                        "pub_year": 2021,
+                        "author": "Seul Ku and Adithya Balasubramanian and Justin Yu and Ashwin Srivatsav and Jabez Gondokusumo and Alexander J Tatem and Jonathan A Beilan and Asad Hasan and James M Hotaling and Larry I Lipshultz and Alexander W Pastuszak",
+                        "journal": "International Journal of Impotence Research",
+                        "publisher": "Nature Publishing Group UK"
+                    },
+                    "num_citations": 24,
+                    "pub_url": "https://www.nature.com/articles/s41443-020-0322-9"
+                },
+                {
+                    "bib": {
+                        "title": "An analysis of popular online erectile dysfunction supplements",
+                        "pub_year": 2019,
+                        "author": "Adithya Balasubramanian and Nannan Thirumavalavan and Ashwin Srivatsav and Justin Yu and James M Hotaling and Larry I Lipshultz and Alexander W Pastuszak",
+                        "publisher": "Oxford University Press"
+                    },
+                    "num_citations": 22,
+                    "pub_url": "https://academic.oup.com/jsm/article-abstract/16/6/843/6966876"
+                },
+                {
+                    "bib": {
+                        "title": "Increased risk of hypogonadal symptoms in shift workers with shift work sleep disorder",
+                        "pub_year": 2020,
+                        "author": "Adithya Balasubramanian and Taylor P Kohn and Javier E Santiago and John T Sigalos and E Will Kirby and Mark S Hockenberry and Stephen M Pickett and Alexander W Pastuszak and Larry I Lipshultz",
+                        "journal": "Urology",
+                        "publisher": "Elsevier"
+                    },
+                    "num_citations": 20,
+                    "pub_url": "https://www.sciencedirect.com/science/article/pii/S0090429520300042"
+                },
+                {
+                    "bib": {
+                        "title": "Patient attitudes toward testicular prosthesis placement after orchiectomy",
+                        "pub_year": 2019,
+                        "author": "Ashwin Srivatsav and Adithya Balasubramanian and Mohit Butaney and Nannan Thirumavalavan and J Abram McBride and Jabez Gondokusumo and Alexander W Pastuszak and Larry Lipshultz",
+                        "journal": "American Journal of Men's Health",
+                        "publisher": "SAGE Publications"
+                    },
+                    "num_citations": 18,
+                    "pub_url": "https://journals.sagepub.com/doi/abs/10.1177/1557988319861019"
+                },
+                {
+                    "bib": {
+                        "title": "Evaluating clinical outcomes of an advanced practice provider-led newborn circumcision clinic",
+                        "pub_year": 2019,
+                        "author": "Jonathan A Gerber and Alexandra N Borden and Jacqueline Broda and Sarah Koelewyn and Adithya Balasubramanian and Duong Tu and Chester J Koh and Paul F Austin and David R Roth and Abhishek Seth",
+                        "journal": "Urology",
+                        "publisher": "Elsevier"
+                    },
+                    "num_citations": 17,
+                    "pub_url": "https://www.sciencedirect.com/science/article/pii/S0090429519302067"
+                },
+                {
+                    "bib": {
+                        "title": "Salvage topical therapy for upper tract urothelial carcinoma",
+                        "pub_year": 2018,
+                        "author": "Adithya Balasubramanian and Michael J Metcalfe and Gavin Wagenheim and Lianchun Xiao and John Papadopoulos and Neema Navai and John W Davis and Jose A Karam and Ashish M Kamat and Christopher G Wood and Colin P Dinney and Surena F Matin",
+                        "journal": "World journal of urology",
+                        "publisher": "Springer Berlin Heidelberg"
+                    },
+                    "num_citations": 15,
+                    "pub_url": "https://link.springer.com/article/10.1007/s00345-018-2349-9"
+                },
+                {
+                    "bib": {
+                        "title": "Patient-specific virtual simulation\u2014A state of the art approach to teach renal tumor localization",
+                        "pub_year": 2018,
+                        "author": "Arun Rai and Jason M Scovell and Ang Xu and Adithya Balasubramanian and Ryan Siller and Taylor Kohn and Young Moon and Naveen Yadav and Richard E Link",
+                        "publisher": "Elsevier"
+                    },
+                    "num_citations": 15,
+                    "pub_url": "https://www.sciencedirect.com/science/article/pii/S0090429518305405"
+                },
+                {
+                    "bib": {
+                        "title": "A review of the evolving landscape between the consumer Internet and men\u2019s health",
+                        "pub_year": 2020,
+                        "author": "Adithya Balasubramanian and Justin Yu and Ashwin Srivatsav and Aaron Spitz and Michael L Eisenberg and Nannan Thirumavalavan and J Abram McBride and Larry I Lipshultz and Alexander W Pastuszak",
+                        "publisher": "AME Publications"
+                    },
+                    "num_citations": 13,
+                    "pub_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7108985/"
+                },
+                {
+                    "bib": {
+                        "title": "The association between pelvic discomfort and erectile dysfunction in adult male bicyclists",
+                        "pub_year": 2020,
+                        "author": "Adithya Balasubramanian and Justin Yu and Benjamin N Breyer and Roger Minkow and Michael L Eisenberg",
+                        "journal": "The journal of sexual medicine",
+                        "publisher": "Oxford University Press"
+                    },
+                    "num_citations": 11,
+                    "pub_url": "https://academic.oup.com/jsm/article-abstract/17/5/919/6973667"
+                },
+                {
+                    "bib": {
+                        "title": "Analyzing online twitter discussion for male infertility via the hashtag# MaleInfertility",
+                        "pub_year": 2020,
+                        "author": "Adithya Balasubramanian and Justin Yu and Nannan Thirumavalavan and Larry I Lipshultz and James M Hotaling and Alexander W Pastuszak",
+                        "journal": "Urology Practice",
+                        "publisher": "Wolters Kluwer"
+                    },
+                    "num_citations": 10,
+                    "pub_url": "https://www.auajournals.org/doi/abs/10.1097/UPJ.0000000000000066"
+                },
+                {
+                    "bib": {
+                        "title": "Treatment of estrogen levels in the management of hypogonadism: an anonymous survey of ISSM members",
+                        "pub_year": 2020,
+                        "author": "Mohit Butaney and Nannan Thirumavalavan and Adithya Balasubramanian and J Abram McBride and Jabez Gondokusumo and Alexander W Pastuszak and Larry I Lipshultz",
+                        "journal": "Urology",
+                        "publisher": "Elsevier"
+                    },
+                    "num_citations": 9,
+                    "pub_url": "https://www.sciencedirect.com/science/article/pii/S0090429520301230"
+                },
+                {
+                    "bib": {
+                        "title": "Color Doppler ultrasound imaging in varicoceles: Is the difference in venous diameter encountered during Valsalva predictive of palpable varicocele grade?",
+                        "pub_year": 2023,
+                        "author": "Kelly Lehner and Catherine Ingram and Utsav Bansal and Colleen Baca and Adithya Balasubramanian and Nannan Thirumavalavan and Jason M Scovell and Saneal Rajanahally and Matthew Pollard and Larry I Lipshultz",
+                        "journal": "Asian Journal of Urology",
+                        "publisher": "Elsevier"
+                    },
+                    "num_citations": 8,
+                    "pub_url": "https://www.sciencedirect.com/science/article/pii/S2214388221001302"
+                },
+                {
+                    "bib": {
+                        "title": "An Infertile Couple's Long and Expensive Path to Varicocele Repair",
+                        "pub_year": 2019,
+                        "author": "Adithya Balasubramanian and Nannan Thirumavalavan and Jason M Scovell and Jonathan Lo and Byung Ji and Elizabeth L Godfrey and Alexander W Pastuszak and Larry I Lipshultz",
+                        "journal": "Urology",
+                        "publisher": "Elsevier"
+                    },
+                    "num_citations": 6,
+                    "pub_url": "https://www.sciencedirect.com/science/article/pii/S0090429518311075"
+                },
+                {
+                    "bib": {
+                        "title": "Do pediatricians routinely perform genitourinary examinations during well-child visits? A review from a large tertiary pediatric hospital",
+                        "pub_year": 2019,
+                        "author": "Jonathan A Gerber and Adithya Balasubramanian and CJ Jorgez and MA Shukla and JS Jacob and H Zhu and KR Sheth and A Mittal and Duong D Tu and Chester J Koh and N Janzen and M-H Wang and Paul F Austin and Edmond T Gonzales and David R Roth and Abhishek Seth",
+                        "journal": "Journal of pediatric urology",
+                        "publisher": "Elsevier"
+                    },
+                    "num_citations": 5,
+                    "pub_url": "https://www.sciencedirect.com/science/article/pii/S1477513119301305"
+                },
+                {
+                    "bib": {
+                        "title": "INCREASED RISK OF HYPOGONADAL SYMPTOMS IN SHIFT WORKERS WITH SHIFT WORK SLEEP DISORDER: MP91-06",
+                        "pub_year": 2017,
+                        "author": "Will Kirby and Adithya Balasubramanian and Javier Santiago and Mark Hockenberry and David Skutt and Taylor Kohn and Stephen Pickett and Asad Hasan and Alex Pastuszak and Larry Lipshultz",
+                        "journal": "Journal of Urology",
+                        "publisher": "LWW"
+                    },
+                    "num_citations": 5,
+                    "pub_url": "https://journals.lww.com/auajuro/fulltext/2017/04001/increased_risk_of_hypogonadal_symptoms_in_shift.2734.aspx"
+                },
+                {
+                    "bib": {
+                        "title": "Adrenocortical neoplasm of uncertain malignant potential with a myelolipomatous component",
+                        "pub_year": 2020,
+                        "author": "Adithya Balasubramanian and Jason Scovell and Adam E Dowell and Wesley Mayer",
+                        "journal": "BMJ Case Reports CP",
+                        "publisher": "BMJ Specialist Journals"
+                    },
+                    "num_citations": 4,
+                    "pub_url": "https://casereports.bmj.com/content/13/6/e234591.abstract"
+                },
+                {
+                    "bib": {
+                        "title": "# Peyronies: An Analysis of Online Twitter Discussion of Peyronie\u2019s Disease",
+                        "pub_year": 2020,
+                        "author": "Adithya Balasubramanian and Justin Yu and Larry I Lipshultz and James M Hotaling and Alexander W Pastuszak",
+                        "journal": "Urology Practice",
+                        "publisher": "Wolters Kluwer"
+                    },
+                    "num_citations": 4,
+                    "pub_url": "https://www.auajournals.org/doi/abs/10.1097/UPJ.0000000000000057"
+                },
+                {
+                    "bib": {
+                        "title": "DNA methylation profiling of peripheral blood samples is a promising new approach to screen for male infertility",
+                        "pub_year": 2019,
+                        "author": "Adithya Balasubramanian and Nannan Thirumavalavan and Alexander W Pastuszak",
+                        "journal": "Fertility and sterility",
+                        "publisher": "Elsevier"
+                    },
+                    "num_citations": 4,
+                    "pub_url": "https://www.fertstert.org/article/S0015-0282(19)30394-2/abstract"
+                },
+                {
+                    "bib": {
+                        "title": "Co-manifestations of genital neurofibromatosis in a patient with neurofibromatosis type 1",
+                        "pub_year": 2020,
+                        "author": "Seul Ku and Adithya Balasubramanian and Chia-Sui Kao and Michael L Eisenberg and Eila C Skinner",
+                        "journal": "Urology",
+                        "publisher": "Elsevier"
+                    },
+                    "num_citations": 3,
+                    "pub_url": "https://www.goldjournal.net/article/S0090-4295(20)30346-0/abstract"
+                },
+                {
+                    "bib": {
+                        "title": "Comparison of urologic transfers to academic medical centers: A multi-institutional perspective",
+                        "pub_year": 2020,
+                        "author": "Patrick Michael and Vi T Tran and Marilyn Hopkins and Ian Berger and Justin Ziemba and Utsav K Bansal and Adithya Balasubramanian and Jessie Chen and Wesley Mayer and Andrew Fang and Soroush Rais-Bahrami and Andrew James and Andrew Harris",
+                        "journal": "Urology",
+                        "publisher": "Elsevier"
+                    },
+                    "num_citations": 3,
+                    "pub_url": "https://www.sciencedirect.com/science/article/pii/S009042951931012X"
+                },
+                {
+                    "bib": {
+                        "title": "Vasoepididymostomy: an insight into current practice patterns",
+                        "pub_year": 2019,
+                        "author": "Ujval S Pathak and Adithya Balasubramanian and Jonathan A Beilan and Mohit Butaney and Alexander J Tatem and Nannan Thirumavalavan and Larry I Lipshultz",
+                        "journal": "Translational Andrology and Urology",
+                        "publisher": "AME Publications"
+                    },
+                    "num_citations": 3,
+                    "pub_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6987588/"
+                },
+                {
+                    "bib": {
+                        "title": "The most common reasons for health care provider visits in reproductive aged men differ by race and age stratification",
+                        "pub_year": 2020,
+                        "author": "Adithya Balasubramanian and Chiyuan A Zhang and Kyle Spradling and Michael L Eisenberg",
+                        "journal": "Urology Practice",
+                        "publisher": "Wolters Kluwer"
+                    },
+                    "num_citations": 2,
+                    "pub_url": "https://www.auajournals.org/doi/abs/10.1097/UPJ.0000000000000091"
+                },
+                {
+                    "bib": {
+                        "title": "Bipolar Androgen Therapy in Prostate Cancer (Update)",
+                        "pub_year": 2020,
+                        "author": "Eric M Lo and Adithya Balasubramanian and Alexander W Pastuszak and Mohit Khera",
+                        "journal": "The Journal of Sexual Medicine",
+                        "publisher": "Oxford University Press"
+                    },
+                    "num_citations": 2,
+                    "pub_url": "https://academic.oup.com/jsm/article-abstract/17/5/831/6973867"
+                },
+                {
+                    "bib": {
+                        "title": "Evolving insights into the relationship between miR-23a/b-3p and target genes in subfertile patients",
+                        "pub_year": 2019,
+                        "author": "Adithya Balasubramanian and Nannan Thirumavalavan and Alexander W Pastuszak",
+                        "journal": "Fertility and sterility",
+                        "publisher": "Elsevier"
+                    },
+                    "num_citations": 2,
+                    "pub_url": "https://www.fertstert.org/article/S0015-0282(19)30415-7/abstract"
+                },
+                {
+                    "bib": {
+                        "title": "It takes two to tango: couples\u2019 long and expensive paths to varicocele repair",
+                        "pub_year": 2018,
+                        "author": "A Balasubramanian and N Thirumavalavan and J Scovell and JJ Lo and B Ji and EL Godfrey and AW Pastuszak and LI Lipshultz",
+                        "journal": "Fertility and Sterility",
+                        "publisher": "Elsevier"
+                    },
+                    "num_citations": 2,
+                    "pub_url": "https://www.fertstert.org/article/S0015-0282(18)31364-5/abstract"
+                },
+                {
+                    "bib": {
+                        "title": "TESTICULAR CANCER AMONG INFERTILE MEN: A COST BASED RATIONALE FOR PROMOTING TESTICULAR SELF EXAMINATIONS: PD13-05",
+                        "pub_year": 2017,
+                        "author": "Adithya Balasubramanian and Naveen Yadav and Edgar W Kirby and Alexander W Pastuszak and Larry I Lipshultz",
+                        "journal": "Journal of Urology",
+                        "publisher": "LWW"
+                    },
+                    "num_citations": 2,
+                    "pub_url": "https://journals.lww.com/auajuro/fulltext/2017/04001/testicular_cancer_among_infertile_men__a_cost.611.aspx"
+                },
+                {
+                    "bib": {
+                        "title": "VIRTUAL SIMULATION IMPROVES A NOVICE\u2032 S ABILITY TO LOCALIZE RENAL TUMORS IN 3D PHYSICAL MODELS\u2013A MULTI-INSTITUTIONAL PROSPECTIVE RANDOMIZED CONTROLLED STUDY: PD46-12",
+                        "pub_year": 2017,
+                        "author": "Arun Rai and Jason Scovell and Adithya Balasubramanian and Ang Xu and Ryan Siller and Taylor P Kohn and Young Moon and Naveen Yadav and Richard Link",
+                        "journal": "Journal of Urology",
+                        "publisher": "LWW"
+                    },
+                    "num_citations": 2,
+                    "pub_url": "https://journals.lww.com/auajuro/fulltext/2017/04001/virtual_simulation_improves_a_novice_s_ability_to.1990.aspx"
+                },
+                {
+                    "bib": {
+                        "title": "MP76-05 Peri-urethral prostatic cavity formation following water vapor thermal therapy: an unrecognized complication causing persistent luts?",
+                        "pub_year": 2023,
+                        "author": "Leo D Dreyfuss and Kevin Alter and Adithya Balasubramanian and Barry Zisholtz and Kevin C Zorn and Naeem Bhojani and Dean Elterman and Bilal Chughtai",
+                        "journal": "The Journal of Urology",
+                        "publisher": "Wolters Kluwer"
+                    },
+                    "num_citations": 1,
+                    "pub_url": "https://www.auajournals.org/doi/abs/10.1097/JU.0000000000003350.05"
+                },
+                {
+                    "bib": {
+                        "title": "A Spotlight on Patient-and Physician-Driven Digital Health and Mobile Innovation in Male Reproductive Medicine",
+                        "pub_year": 2020,
+                        "author": "Adithya Balasubramanian and Justin Yu and Jorge Rivera-Mirabal and Michael L Eisenberg and Aaron Spitz and Nannan Thirumavalavan and Larry I Lipshultz and Alexander W Pastuszak",
+                        "publisher": "Springer US"
+                    },
+                    "num_citations": 1,
+                    "pub_url": "https://link.springer.com/article/10.1007/s11930-020-00280-6"
+                },
+                {
+                    "bib": {
+                        "title": "The use of scrotal ultrasound in the evaluation of varicoceles: A survey study of reproductive specialists",
+                        "pub_year": 2020,
+                        "author": "Jabez C Gondokusumo and Mohit Butaney and Adithya Balasubramanian and Jonathan A Beilan and Alexander J Tatem and Nannan Thirumavalavan and Alexander W Pastuszak and Larry I Lipshultz",
+                        "journal": "Canadian Urological Association Journal",
+                        "publisher": "Canadian Urological Association"
+                    },
+                    "num_citations": 1,
+                    "pub_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7402699/"
+                },
+                {
+                    "bib": {
+                        "title": "A comprehensive analysis of# enuresis conversation on twitter",
+                        "pub_year": 2020,
+                        "author": "Justin Yu and Adithya Balasubramanian and Jonathan A Gerber and Abhishek Seth",
+                        "journal": "Canadian Urological Association Journal",
+                        "publisher": "Canadian Urological Association"
+                    },
+                    "num_citations": 1,
+                    "pub_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7337713/"
+                },
+                {
+                    "bib": {
+                        "title": "126 testosterone imposters: an analysis of popular online testosterone boosting supplements",
+                        "pub_year": 2019,
+                        "author": "A Balasubramanian and N Thirumavalavan and A Srivatsav and L Lipshultz and A Pastuszak",
+                        "journal": "The Journal of Sexual Medicine",
+                        "publisher": "Oxford University Press"
+                    },
+                    "num_citations": 1,
+                    "pub_url": "https://academic.oup.com/jsm/article-abstract/16/Supplement_1/S65/7020816"
+                },
+                {
+                    "bib": {
+                        "title": "MP46-18 A systematic evaluation of YouTube as an information source for male infertility",
+                        "pub_year": 2019,
+                        "author": "Adithya Balasubramanian* and Justin Yu and Ashwin Srivatsav and Jabez Gondokusumo and Alexander J Tatem and Jonathan A Beilan and Asad Hasan and James M Hotaling and Larry I Lipshultz and Alexander W Pastuszak",
+                        "journal": "The Journal of Urology",
+                        "publisher": "Wolters Kluwer"
+                    },
+                    "num_citations": 1,
+                    "pub_url": "https://www.auajournals.org/doi/abs/10.1097/01.JU.0000556310.16312.e9"
+                },
+                {
+                    "bib": {
+                        "title": "RESULTS OF SECOND LINE TOPICAL THERAPY FOR UPPER TRACT UROTHELIAL CARCINOMA (UTUC): MP78-02",
+                        "pub_year": 2017,
+                        "author": "Adithya Balasubramanian and Michael J Metcalfe and Gavin Wagenheim and Lianchun Xiao and Firas G Petros and John Papadopoulos and Neema Navai and John W Davis and Jose A Karam and Ashish M Kamat and Christopher G Wood and Colin P Dinney and Surena F Matin",
+                        "journal": "Journal of Urology",
+                        "publisher": "LWW"
+                    },
+                    "num_citations": 1,
+                    "pub_url": "https://journals.lww.com/auajuro/fulltext/2017/04001/results_of_second_line_topical_therapy_for_upper.2293.aspx"
+                },
+                {
+                    "bib": {
+                        "title": "Basic science statistics",
+                        "pub_year": 2025,
+                        "author": "Jason M Scovell and Adithya Balasubramanian and Scott D Lundy and Petar Bajic",
+                        "publisher": "Academic Press"
+                    },
+                    "num_citations": 0,
+                    "pub_url": "https://www.sciencedirect.com/science/article/pii/B9780323901864000808"
+                },
+                {
+                    "bib": {
+                        "title": "Outcomes and Cost of Donor Nephrectomy Across Surgical Specialties and Operative Approaches",
+                        "pub_year": 2024,
+                        "author": "Jack Millot and Ilon Weinstein and Camilo Arenas-Gallo and Adithya Balasubramanian and Stephen Rhodes and Mollie Goldman and Shany Picciotto and Jonathan E Shoag",
+                        "journal": "Urology Practice",
+                        "publisher": "Wolters Kluwer"
+                    },
+                    "num_citations": 0,
+                    "pub_url": "https://www.auajournals.org/doi/abs/10.1097/UPJ.0000000000000673"
+                },
+                {
+                    "bib": {
+                        "title": "MP68-13 TRENDS AND PREDICTORS OF MRI-GUIDED BIOPSY FOR PROSTATE CANCER DIAGNOSIS IN THE UNITED STATES",
+                        "pub_year": 2024,
+                        "author": "Mollie Goldman and Camilo Arenas-Gallo and Adithya Balasubramanian and Jack Millot and Leo D Dreyfuss and Patrick Lewicki and Xian Wu and Stephen Rhodes and Jonathan E Shoag",
+                        "journal": "The Journal of Urology",
+                        "publisher": "Wolters Kluwer"
+                    },
+                    "num_citations": 0,
+                    "pub_url": "https://www.auajournals.org/doi/abs/10.1097/01.JU.0001008744.60568.e8.13"
+                },
+                {
+                    "bib": {
+                        "title": "PD10-03 THE ASSOCIATION BETWEEN PERIOPERATIVE HEMOGLOBIN A1C AND SEPSIS AFTER ENDOUROLOGIC SURGERY",
+                        "pub_year": 2024,
+                        "author": "Richard B Berman and Justin Lee and Adithya Balasubramanian and Hriday Bhambhvani and Ojas Shah",
+                        "journal": "Journal of Urology",
+                        "publisher": "LWW"
+                    },
+                    "num_citations": 0,
+                    "pub_url": "https://journals.lww.com/auajuro/fulltext/2024/05001/pd10_03_the_association_between_perioperative.372.aspx"
+                },
+                {
+                    "bib": {
+                        "title": "MP14-06 IMPACT OF ABIRATERONE ON SEXUAL FUNCTION IN MEN WITH ADVANCED PROSTATE CANCER: A META-ANALYSIS OF RCTS",
+                        "pub_year": 2024,
+                        "author": "Alec Zhu and Aaron Brant and Xian Wu and Camilo A Gallo and Manish Kuchakulla and Adithya Balasubramanian and Lina Posada and Leo Dreyfuss and Mary O Strasser and Tenny R Zhang and Robert Fisch and Brandon M Wahba and Gal Wald and Jonathan E Shoag",
+                        "journal": "Journal of Urology",
+                        "publisher": "LWW"
+                    },
+                    "num_citations": 0,
+                    "pub_url": "https://journals.lww.com/auajuro/fulltext/2024/05001/mp14_06_impact_of_abiraterone_on_sexual_function.454.aspx"
+                },
+                {
+                    "bib": {
+                        "title": "Trends in Opioid and Nonsteroidal Anti-Inflammatory Drug Use for Patients with Kidney Stones in United States Emergency Departments from 2015 to 2021",
+                        "pub_year": 2024,
+                        "author": "Richard B Berman and Juliana Villanueva and Ezra J Margolin and Adithya Balasubramanian and Justin Lee and Ojas Shah",
+                        "journal": "Journal of Endourology",
+                        "publisher": "Mary Ann Liebert, Inc., publishers"
+                    },
+                    "num_citations": 0,
+                    "pub_url": "https://www.liebertpub.com/doi/abs/10.1089/end.2023.0636"
+                },
+                {
+                    "bib": {
+                        "title": "MP40-11 TRENDS IN OPIOID AND NONSTEROIDAL ANTI-INFLAMMATORY DRUG USE FOR PATIENTS WITH KIDNEY STONES IN UNITED STATES EMERGENCY DEPARTMENTS FROM 2015 TO 2021",
+                        "pub_year": 2024,
+                        "author": "Richard B Berman and Juliana Villanueva and Ezra J Margolin and Adithya Balasubramanian and Justin Lee and Ojas Shah",
+                        "journal": "The Journal of Urology",
+                        "publisher": "Wolters Kluwer"
+                    },
+                    "num_citations": 0,
+                    "pub_url": "https://www.auajournals.org/doi/abs/10.1097/01.JU.0001008788.18007.3f.11"
+                },
+                {
+                    "bib": {
+                        "title": "MP40-04 MACHINE LEARNING BASED EVALUATION OF SEPSIS RISK AFTER ENDOUROLOGIC SURGERY",
+                        "pub_year": 2024,
+                        "author": "Justin Lee and Richard Berman and Adithya Balasubramanian and Hriday Bhambhvani and Ojas Shah",
+                        "journal": "The Journal of Urology",
+                        "publisher": "Wolters Kluwer"
+                    },
+                    "num_citations": 0,
+                    "pub_url": "https://www.auajournals.org/doi/abs/10.1097/01.JU.0001008788.18007.3f.04"
+                },
+                {
+                    "bib": {
+                        "title": "MP08-19 IMPACT OF IMMUNOTHERAPY IN METASTATIC BLADDER CANCER PATIENTS WITH AND WITHOUT VISCERAL METASTASES: A META-ANALYSIS OF RCTS",
+                        "pub_year": 2024,
+                        "author": "Alec Zhu and Stephen P Rhodes and Parwiz Abrahimi and Xian Wu and Camilo A Gallo and Manish Kuchakulla and Gal Wald and Mary O Strasser and Lina Posada and Adithya Balasubramanian and Leo Dreyfuss and Jonathan E Shoag",
+                        "journal": "The Journal of Urology",
+                        "publisher": "Wolters Kluwer"
+                    },
+                    "num_citations": 0,
+                    "pub_url": "https://www.auajournals.org/doi/abs/10.1097/01.JU.0001008780.87855.57.19"
+                },
+                {
+                    "bib": {
+                        "title": "MP35-07 RACIAL DIFFERENCES IN BLADDER CANCER MORTALITY ADJUSTING FOR SOCIODEMOGRAPHIC DISPARITIES IN A STATEWIDE CANCER REGISTRY",
+                        "pub_year": 2024,
+                        "author": "Mollie Goldman and Camilo Arenas-Gallo and Adithya Balasubramanian and Jack Millot and Xian Wu and Alec Zhu and Stephen Rhodes and Jason Brown and Jonathan E Shoag",
+                        "journal": "The Journal of Urology",
+                        "publisher": "Wolters Kluwer"
+                    },
+                    "num_citations": 0,
+                    "pub_url": "https://www.auajournals.org/doi/abs/10.1097/01.JU.0001009372.61513.54.07"
+                },
+                {
+                    "bib": {
+                        "title": "MP78-10 UTILIZATION AND COST OF OUTPATIENT PERCUTANEOUS NEPHROLITHOTOMY IN THE UNITED STATES",
+                        "pub_year": 2024,
+                        "author": "Adithya Balasubramanian and Richard Berman and Justin Lee and Leo D Dreyfuss and Xian Wu and Jonathan Shoag and Ojas Shah",
+                        "journal": "The Journal of Urology",
+                        "publisher": "Wolters Kluwer"
+                    },
+                    "num_citations": 0,
+                    "pub_url": "https://www.auajournals.org/doi/abs/10.1097/01.JU.0001008856.05210.73.10"
+                },
+                {
+                    "bib": {
+                        "title": "MP03-08 RATES OF SURGICAL MANAGEMENT AND REPEAT PROCEDURES FOR STRESS URINARY INCONTINENCE FOLLOWING RADICAL PROSTATECTOMY IN THE UNITED STATES",
+                        "pub_year": 2024,
+                        "author": "Leo D Dreyfuss and Ethan Weitzman and Adithya Balasubramanian and Camilo Arenas-Gallo and Stephen Rhodes and Xian Wu and Richard Lee and Jonathan Shoag",
+                        "journal": "Journal of Urology",
+                        "publisher": "LWW"
+                    },
+                    "num_citations": 0,
+                    "pub_url": "https://journals.lww.com/auajuro/fulltext/2024/05001/mp03_08_rates_of_surgical_management_and_repeat.51.aspx"
+                },
+                {
+                    "bib": {
+                        "title": "Deep Learning Prostate MRI Segmentation Accuracy and Robustness: A Systematic Review",
+                        "pub_year": 2024,
+                        "author": "Mohammad-Kasim Fassia and Adithya Balasubramanian and Sungmin Woo and Hebert Alberto Vargas and Hedvig Hricak and Ender Konukoglu and Anton S Becker",
+                        "publisher": "Radiological Society of North America"
+                    },
+                    "num_citations": 0,
+                    "pub_url": "https://pubs.rsna.org/doi/abs/10.1148/ryai.230138"
+                },
+                {
+                    "bib": {
+                        "title": "Abstract No. 101 Staged Prostate Artery Embolization Reduces the Risk of Post-Aquablation Hemorrhage",
+                        "pub_year": 2024,
+                        "author": "K Fassia and A Balasubramanian and S Basourakos and P Lewicki and J Fainberg and A Te and T McClure and B Currie",
+                        "journal": "Journal of Vascular and Interventional Radiology",
+                        "publisher": "Elsevier"
+                    },
+                    "num_citations": 0,
+                    "pub_url": "https://scholar.google.com/scholar?cluster=1553935463504857314&hl=en&oi=scholarr"
+                },
+                {
+                    "bib": {
+                        "title": "An Introduction to Men's Health Care Urologic Men's Health, the Internet, and Social Media",
+                        "pub_year": 2023,
+                        "author": "Adithya Balasubramanian and Kassandra E Zaila and James M Hotaling and Jesse N Mills",
+                        "journal": "Men's Reproductive and Sexual Health Throughout the Lifespan: An Integrated Approach to Fertility, Sexual Function, and Vitality",
+                        "publisher": "Cambridge University Press"
+                    },
+                    "num_citations": 0,
+                    "pub_url": "https://books.google.com/books?hl=en&lr=&id=0vHSEAAAQBAJ&oi=fnd&pg=PA16&dq=info:53up0N8skhEJ:scholar.google.com&ots=d901a9fdMD&sig=Rta6JxTjxseu3camVflcNZPBY6c"
+                },
+                {
+                    "bib": {
+                        "title": "MP54-19 RELATIONSHIP BETWEEN HOME VALUE AND MORTALITY OUTCOMES IN CANCER PATIENTS FROM A STATEWIDE REGISTRY",
+                        "pub_year": 2023,
+                        "author": "Mary O Strasser and Alec Zhu and Stephen Rhodes and Adithya Balasubramanian and Lina Posada and Leo Dreyfuss and Jonathan Shoag",
+                        "journal": "Journal of Urology",
+                        "publisher": "LWW"
+                    },
+                    "num_citations": 0,
+                    "pub_url": "https://journals.lww.com/auajuro/fulltext/2023/04001/mp54_19_relationship_between_home_value_and.1594.aspx"
+                },
+                {
+                    "bib": {
+                        "title": "MP22-20 CONTEMPORARY TRENDS IN THE MANAGEMENT OF T1 BLADDER CANCER",
+                        "pub_year": 2023,
+                        "author": "Michael Hung and Adithya Balasubramanian and Douglas Scherr",
+                        "journal": "The Journal of Urology",
+                        "publisher": "Wolters Kluwer"
+                    },
+                    "num_citations": 0,
+                    "pub_url": "https://www.auajournals.org/doi/abs/10.1097/JU.0000000000003247.20"
+                },
+                {
+                    "bib": {
+                        "title": "Abstract No. 144 Cone-Beam CT with Dedicated Planning Software Improves Optimal Gantry Angle Selection for Prostate Artery Embolization",
+                        "pub_year": 2023,
+                        "author": "A Balasubramanian and M Kasim and A Ortiz and R Doustaly and J Fainberg and C Thomas and A RoyChoudury and A Kesselman and K Lee and A Te and T McClure",
+                        "journal": "Journal of Vascular and Interventional Radiology",
+                        "publisher": "Elsevier"
+                    },
+                    "num_citations": 0,
+                    "pub_url": "https://scholar.google.com/scholar?cluster=16320891348721361199&hl=en&oi=scholarr"
+                },
+                {
+                    "bib": {
+                        "title": "Case\u2013Orlistat-induced calcium oxalate crystalluria",
+                        "pub_year": 2022,
+                        "author": "Greta Handing and Ujval Ishu Pathak and Adithya Balasubramanian and Alexander Liu and Wesley A Mayer",
+                        "journal": "Canadian Urological Association Journal",
+                        "publisher": "Canadian Urological Association"
+                    },
+                    "num_citations": 0,
+                    "pub_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9565061/"
+                },
+                {
+                    "bib": {
+                        "title": "Abstract No. 509 Prostate artery embolization is associated with a reduced rate of post-Aquablation bleeding",
+                        "pub_year": 2022,
+                        "author": "M Fassia and A Balasubramanian and S Basourakos and P Lewicki and J Fainberg and B Currie and A Te and T McClure",
+                        "journal": "Journal of Vascular and Interventional Radiology",
+                        "publisher": "Elsevier"
+                    },
+                    "num_citations": 0,
+                    "pub_url": "https://scholar.google.com/scholar?cluster=2864509100174534233&hl=en&oi=scholarr"
+                },
+                {
+                    "bib": {
+                        "title": "MP33-19 INTRADUCTAL CARCINOMA OF THE PROSTATE IN THE ERA OF MPMRI-TARGETED PROSTATE BIOPSIES: CLINICAL, PATHOLOGIC AND MRI CHARACTERISTICS",
+                        "pub_year": 2022,
+                        "author": "Jonathan Fainberg and Christine Chen and Johnson Chen and Adithya Balasubramanian and Christopher Barbieri and Leo Dreyfus and Beerinder Karir and Francesca Khani and Daniel Margolis and Timothy McClure and Himanshu Nagar and Brian Robinson",
+                        "journal": "Journal of Urology",
+                        "publisher": "LWW"
+                    },
+                    "num_citations": 0,
+                    "pub_url": "https://journals.lww.com/auajuro/fulltext/2022/05001/mp33_19_intraductal_carcinoma_of_the_prostate_in.1245.aspx"
+                },
+                {
+                    "bib": {
+                        "title": "Analysing online Twitter discussions of bedwetting via a condition\u2010specific hashtag (# Bedwetting)",
+                        "pub_year": 2021,
+                        "author": "Adithya Balasubramanian and Melissa Dang and Justin Yu and Jonathan A Gerber and Abhishek Seth",
+                        "journal": "Journal of Paediatrics and Child Health",
+                        "publisher": "John Wiley & Sons Australia, Ltd."
+                    },
+                    "num_citations": 0,
+                    "pub_url": "https://onlinelibrary.wiley.com/doi/abs/10.1111/jpc.15428"
+                },
+                {
+                    "bib": {
+                        "title": "Re: Early Results of Unilateral Prostatic Artery Embolization as a Focal Therapy in Patients with Prostate Cancer under Active Surveillance: Cancer Prostate Embolization, a Pilot Study.",
+                        "pub_year": 2021,
+                        "author": "Adithya Balasubramanian and Himanshu Nagar and Christopher E Barbieri and Scott T Tagawa and Timothy D McClure",
+                        "journal": "Journal of Vascular and Interventional Radiology: JVIR"
+                    },
+                    "num_citations": 0,
+                    "pub_url": "https://europepmc.org/article/med/34091024"
+                },
+                {
+                    "bib": {
+                        "title": "001# erectiledysfunction: 5-year Comprehensive Analysis of the Twitter Discussions Associated with Erectile Dysfunction",
+                        "pub_year": 2021,
+                        "author": "KE Zaila and TW Valdez and A Balasubramanian and TC Gaither and JN Mills and SV Eleswarapu",
+                        "journal": "The Journal of Sexual Medicine",
+                        "publisher": "Oxford University Press"
+                    },
+                    "num_citations": 0,
+                    "pub_url": "https://academic.oup.com/jsm/article-abstract/18/Supplement_1/S1/7021265"
+                },
+                {
+                    "bib": {
+                        "title": "Increased Risk of Hypogonadal Symptoms in Shift Workers With Shift Work Sleep Disorder Reply",
+                        "pub_year": 2020,
+                        "author": "Adithya Balasubramanian and Taylor P Kohn and Javier E Santiago and John T Sigalos and E Will Kirby and Mark S Hockenberry and Stephen M Pickett and Alexander W Pastuszak and Larry I Lipshultz",
+                        "publisher": "ELSEVIER SCIENCE INC"
+                    },
+                    "num_citations": 0
+                },
+                {
+                    "bib": {
+                        "title": "MP47-02 EDUCATING THE UROLOGY INTERN: A NATIONAL SURVEY OF CURRENT EDUCATIONAL PRACTICES FOR FIRST YEAR UROLOGY RESIDENTS",
+                        "pub_year": 2020,
+                        "author": "Kyle Spradling and Henry Chen and Alex Kasman and Adithya Balasubramanian and Harcharan Gill and Simon Conti",
+                        "journal": "Journal of Urology",
+                        "publisher": "LWW"
+                    },
+                    "num_citations": 0,
+                    "pub_url": "https://journals.lww.com/auajuro/abstract/2020/04001/mp47_02_educating_the_urology_intern__a_national.1511.aspx"
+                },
+                {
+                    "bib": {
+                        "title": "Salivary proteomic profile of patients with renal cell carcinoma.",
+                        "pub_year": 2020,
+                        "author": "Adithya Balasubramanian and Weidong Zhou and Emanuel Petricoin and Charles F Streckfus and John R Klein and Wei Qiao and Christopher G Wood and Jose A Karam and Marisa Lozano and Surena F Matin",
+                        "publisher": "American Society of Clinical Oncology"
+                    },
+                    "num_citations": 0,
+                    "pub_url": "https://ascopubs.org/doi/abs/10.1200/JCO.2020.38.6_suppl.622"
+                },
+                {
+                    "bib": {
+                        "title": "Robotic-assisted laparoscopic resection of a primary renal neuroendocrine carcinoma",
+                        "pub_year": 2019,
+                        "author": "Ashwin Srivatsav and Adithya Balasubramanian and Jason Scovell and Wesley Mayer",
+                        "journal": "BMJ Case Reports CP",
+                        "publisher": "BMJ Specialist Journals"
+                    },
+                    "num_citations": 0,
+                    "pub_url": "https://casereports.bmj.com/content/12/12/e232148.abstract"
+                },
+                {
+                    "bib": {
+                        "title": "275 Annual Ultrasound Screening Value in Patients With Familial Adenomatous Polyposis",
+                        "pub_year": 2019,
+                        "author": "Justin Yu and Adithya Balasubramanian and Suneal Agarwal and Kathleen Gallagher",
+                        "journal": "Official journal of the American College of Gastroenterology| ACG",
+                        "publisher": "LWW"
+                    },
+                    "num_citations": 0,
+                    "pub_url": "https://journals.lww.com/ajg/abstract/2019/10001/275_annual_ultrasound_screening_value_in_patients.275.aspx"
+                },
+                {
+                    "bib": {
+                        "title": "Significant delays in evaluation of male partner amongst infertile couples",
+                        "pub_year": 2019,
+                        "author": "Adithya Balasubramanian and Nannan Thirumavalavan and Jenna N Bates and Eric K Wang and Alan Hsieh and Ujval S Pathak and Kelly Payne and Alexander W Pastuszak and Larry I Lipshultz",
+                        "journal": "Fertility and Sterility",
+                        "publisher": "Elsevier"
+                    },
+                    "num_citations": 0,
+                    "pub_url": "https://www.fertstert.org/article/S0015-0282(19)31663-2/abstract"
+                },
+                {
+                    "bib": {
+                        "title": "Does an insurance mandate to cover infertility treatment increase access to in vitro fertilization?",
+                        "pub_year": 2019,
+                        "author": "Kelly Payne and Nannan Thirumavalavan and Jabez Gondokusumo and Adithya Balasubramanian and Michael Lehner and Jason Scovell and J Scott Gabrielsen and Dolores J Lamb and Larry I Lipshultz",
+                        "journal": "Fertility and Sterility",
+                        "publisher": "Elsevier"
+                    },
+                    "num_citations": 0,
+                    "pub_url": "https://www.fertstert.org/article/S0015-0282(19)31009-X/abstract"
+                },
+                {
+                    "bib": {
+                        "title": "PD16-01",
+                        "pub_year": 2019,
+                        "author": "Jonathan A Gerber and Adithya Balasubramanian and Alexandra N Borden and Jacqueline Broda and Sarah J Koelewyn and Huirong Zhu and Kunj R Sheth and Carolina J Jorgez and Angela G Mittal and Duong D Tu and Chester J Koh and Nicolette K Janzen and Ming-Hsien Wang and Paul F Austin",
+                        "journal": "THE JOURNAL OF UROLOGY"
+                    },
+                    "num_citations": 0,
+                    "pub_url": "https://journals.lww.com/auajuro/citation/2019/04001/general___epidemiological_trends___socioeconomics_.699.aspx"
+                },
+                {
+                    "bib": {
+                        "title": "166 Analysis of Popular Erectile Dysfunction Supplements on Amazon. com",
+                        "pub_year": 2019,
+                        "author": "A Balasubramanian and N Thirumavalavan and A Srivatsav and L Lipshultz and A Pastuszak",
+                        "journal": "The Journal of Sexual Medicine",
+                        "publisher": "Oxford University Press"
+                    },
+                    "num_citations": 0,
+                    "pub_url": "https://academic.oup.com/jsm/article-abstract/16/Supplement_1/S84/7020758"
+                },
+                {
+                    "bib": {
+                        "title": "021 Characterization of Patient Attitudes Towards Testicular Prosthesis Placement after Orchiectomy",
+                        "pub_year": 2019,
+                        "author": "A Balasubramanian and N Thirumavalavan and JA McBride and J Gondokusumo and AJ Tatem and JA Beilan and AW Pastuszak and LI Lipshultz",
+                        "journal": "The Journal of Sexual Medicine",
+                        "publisher": "Oxford University Press"
+                    },
+                    "num_citations": 0,
+                    "pub_url": "https://academic.oup.com/jsm/article-abstract/16/Supplement_1/S10/7020449"
+                },
+                {
+                    "bib": {
+                        "title": "MP33-12 DO PEDIATRICIANS ROUTINELY PERFORM GENITOURINARY EXAMINATIONS DURING WELL-CHILD VISITS? A REVIEW FROM A LARGE TERTIARY PEDIATRIC HOSPITAL",
+                        "pub_year": 2019,
+                        "author": "Jonathan A Gerber and Adithya Balasubramanian and Mihir A Shukla and Jake S Jacob and Huirong Zhu and Kunj R Sheth and Carolina J Jorgez and Angela G Mittal and Duong D Tu and Chester J Koh and Nicolette K Janzen and Ming-Hsien Wang and Paul F Austin and Edmond T Gonzales and David R Roth and Abhishek Seth",
+                        "journal": "Journal of Urology",
+                        "publisher": "LWW"
+                    },
+                    "num_citations": 0,
+                    "pub_url": "https://journals.lww.com/auajuro/abstract/2019/04001/mp33_12_do_pediatricians_routinely_perform.1059.aspx"
+                },
+                {
+                    "bib": {
+                        "title": "PD16-02 EVALUATING CLINICAL OUTCOMES OF AN ADVANCED PRACTICE PROVIDER LED NEWBORN CIRCUMCISION CLINIC",
+                        "pub_year": 2019,
+                        "author": "Jonathan A Gerber and Adithya Balasubramanian and Alexandra N Borden and Jacqueline Broda and Sarah J Koelewyn and Huirong Zhu and Kunj R Sheth and Carolina J Jorgez and Angela G Mittal and Duong D Tu and Chester J Koh and Nicolette K Janzen and Ming-Hsien Wang and Paul F Austin and Edmond T Gonzales and David R Roth and Abhishek Seth",
+                        "journal": "Journal of Urology",
+                        "publisher": "LWW"
+                    },
+                    "num_citations": 0,
+                    "pub_url": "https://journals.lww.com/auajuro/abstract/2019/04001/pd16_02_evaluating_clinical_outcomes_of_an.701.aspx"
+                },
+                {
+                    "bib": {
+                        "title": "RESULTS OF CORRECTION OF SUBCLINICAL VARICOCELES ARE SIMILAR TO IMPROVEMENTS SEEN AFTER REPAIR OF PALPABLE VARICOCELES: PD01-12",
+                        "pub_year": 2018,
+                        "author": "Nannan Thirumavalavan and Adithya Balasubramanian and Jason M Scovell and Taylor P Kohn and Byung C Ji and Asad Hasan and Alexander W Pastuszak and Larry I Lipshultz",
+                        "journal": "Journal of Urology",
+                        "publisher": "LWW"
+                    },
+                    "num_citations": 0,
+                    "pub_url": "https://journals.lww.com/auajuro/fulltext/2018/04001/results_of_correction_of_subclinical_varicoceles.132.aspx"
+                },
+                {
+                    "bib": {
+                        "title": "Front & Back Matter",
+                        "pub_year": 2013,
+                        "author": "Somiraa S Said and J Geoffrey Pickering and JD Humphrey and MY Kochukov and A Balasubramanian and RC Noel and SP Marrelli and Subhadeep Chakrabarti and Sandra T Davidge and Kibret Mequanint and Vladimir V Matchkov and Vibeke Secher Dam and Donna M Briggs B\u00f8dtkjer and Christian Aalkj\u00e6r and Evan Berry and Ana-Maria Bosonea and Xiang Wang and Carlos Fernandez-Patron and Satz Mengensatzproduktion and Druck Reinhardt Druck Basel",
+                        "journal": "Journal of Vascular Research",
+                        "publisher": "Karger Publishers"
+                    },
+                    "num_citations": 0,
+                    "pub_url": "https://karger.com/Article/PDF/346461"
+                },
+                {
+                    "bib": {
+                        "title": "Urologic MenTs Health, the Internet, and Social Media",
+                        "author": "Adithya Balasubramanian and Kassandra E Zaila and James M Hotaling and Jesse N Mills"
+                    },
+                    "num_citations": 0,
+                    "pub_url": "https://scholar.google.com/scholar?cluster=5153845755531293661&hl=en&oi=scholarr"
+                }
+            ]
+        }
+    },
+    {}
+]
